@@ -6,7 +6,7 @@ An end-to-end data analytics project examining **149K+ transactions** for a mult
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](https://github.com/Dixitshristi/coffee-shop-sales-analysis/blob/main/Coffee%20Shop%20Sales.png)
 
 ---
 
@@ -37,7 +37,7 @@ An end-to-end data analytics project examining **149K+ transactions** for a mult
 * **Business Intelligence:** Microsoft Power BI (DAX, Data Modeling, Custom Dark UI)
 * **Programming & EDA:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Environment:** Jupyter Notebook / Anaconda
-* **Data Source:** Excel Dataset (`Coffee Shop Sales.xlsx`)
+* **Data Source:** Excel Dataset (`https://github.com/Dixitshristi/coffee-shop-sales-analysis/blob/main/coffee-shop-sales-sample.csv`)
 
 ---
 
